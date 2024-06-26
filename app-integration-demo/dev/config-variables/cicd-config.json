@@ -1,0 +1,5 @@
+{
+	"`CONFIG_CONN_NAME`": "projects/deepinstinctinfra/locations/us-central1/connections/pub-sub-connector",
+	"`CONFIG_ENV`": "dev",
+	"`CONFIG_URL`": "https://httpbin.org/get"
+}
